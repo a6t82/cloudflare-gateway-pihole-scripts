@@ -1,0 +1,15 @@
+api.statsig.com
+gecko-sg.byteoversea.com
+za.zalo.me
+cdnt.netcoresmartech.com
+click.discord.com
+js.datadome.co
+c.office.com
+js.monitor.azure.com
+app.adjust.com
+app.appsflyer.com
+googletagmanager.com
+pagead2.googlesyndication.com
+imasdk.googleapis.com
+vietcombank.com.vn
+bidv.com.vn
