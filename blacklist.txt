@@ -1,0 +1,3 @@
+dns.ladipage.com
+connect.facebook.com
+connect.facebook.net
